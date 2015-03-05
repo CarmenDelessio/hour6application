@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hour6Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hour6_text_label">TextView and EditText Example</string>
+    <string name="hour6_name_hint">Enter a name</string>
+    <string name="hour6_number_hint">Enter a number</string>
+    <string name="button_show_skateboarder">Show Skateboarder</string>
+    <string name="button_show_icon">Show Icon</string>
+
+</resources>
